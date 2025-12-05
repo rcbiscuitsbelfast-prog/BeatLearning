@@ -1,0 +1,78 @@
+osu file format v14
+
+[General]
+AudioFilename: test_song.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+Bookmarks:
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:Test Song
+TitleUnicode:Test Song
+Artist:Test Artist
+ArtistUnicode:Test Artist
+Creator:BeatLearning
+Version:Normal
+Source:
+Tags:beatlearning test rhythm game
+BeatmapID:0
+BeatmapSetID:-1
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:4
+OverallDifficulty:5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+
+[TimingPoints]
+0,500,4,2,1,50,1,0
+
+[HitObjects]
+192,240,1000,1,0,0:0:0:0:
+320,240,1500,1,0,0:0:0:0:
+192,240,2000,1,0,0:0:0:0:
+448,240,2500,1,0,0:0:0:0:
+64,240,3000,1,0,0:0:0:0:
+320,240,3500,1,0,0:0:0:0:
+192,240,4000,1,0,0:0:0:0:
+448,240,4500,1,0,0:0:0:0:
+64,240,5000,1,0,0:0:0:0:
+320,240,5500,1,0,0:0:0:0:
+192,240,6000,1,0,0:0:0:0:
+448,240,6500,1,0,0:0:0:0:
+64,240,7000,1,0,0:0:0:0:
+320,240,7500,1,0,0:0:0:0:
+192,240,8000,1,0,0:0:0:0:
+448,240,8500,1,0,0:0:0:0:
+64,240,9000,1,0,0:0:0:0:
+320,240,9500,1,0,0:0:0:0:
+192,240,10000,1,0,0:0:0:0:
+448,240,10500,1,0,0:0:0:0:
+64,240,11000,1,0,0:0:0:0:
+320,240,11500,1,0,0:0:0:0:
+192,240,12000,1,0,0:0:0:0:
+448,240,12500,1,0,0:0:0:0:
+64,240,13000,1,0,0:0:0:0:
+320,240,13500,1,0,0:0:0:0:
+192,240,14000,1,0,0:0:0:0:
+448,240,14500,1,0,0:0:0:0:
+64,240,15000,1,0,0:0:0:0:
+320,240,15500,1,0,0:0:0:0:
+192,240,16000,1,0,0:0:0:0:
+448,240,16500,1,0,0:0:0:0:
